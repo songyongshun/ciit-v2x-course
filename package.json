@@ -4,7 +4,7 @@
   },
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build && cp -r public/download/* .vitepress/dist/download/",
+    "docs:build": "vitepress build && cp -r public/download/* .vitepress/dist/download/ && mkdir -p .vitepress/dist/教材扫描 && cp -r public/教材扫描/* .vitepress/dist/教材扫描/",
     "docs:preview": "vitepress preview"
   }
 }
