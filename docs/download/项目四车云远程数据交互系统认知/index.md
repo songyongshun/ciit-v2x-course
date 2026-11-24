@@ -6,8 +6,8 @@
 
 ## 📎 课件（PPT）
 
-- <a href="./项目四任务一.pptx" download>项目四任务一.pptx</a>
-- <a href="./项目四任务二.pptx" download>项目四任务二.pptx</a>
+- <a href="/download/项目四车云远程数据交互系统认知/项目四任务一.pptx" download>项目四任务一.pptx</a>
+- <a href="/download/项目四车云远程数据交互系统认知/项目四任务二.pptx" download>项目四任务二.pptx</a>
 
 ---
 
@@ -15,19 +15,19 @@
 
 ### 项目四任务一
 
-- <a href="./无锡中标.pdf" download>无锡中标.pdf</a>
-- <a href="./无锡车路云一体化建设获评典型案例_刘星.pdf" download>无锡车路云一体化建设获评典型案例_刘星.pdf</a>
-- <a href="./无锡车路云一体化赋能城市管理AI场景应用_通讯员__陈锡.pdf" download>无锡车路云一体化赋能城市管理AI场景应用_通讯员__陈锡.pdf</a>
-- <a href="./项目四任务一.pdf" download>项目四任务一.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/无锡中标.pdf" download>无锡中标.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/无锡车路云一体化建设获评典型案例_刘星.pdf" download>无锡车路云一体化建设获评典型案例_刘星.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/无锡车路云一体化赋能城市管理AI场景应用_通讯员__陈锡.pdf" download>无锡车路云一体化赋能城市管理AI场景应用_通讯员__陈锡.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/项目四任务一.pdf" download>项目四任务一.pdf</a>
 
 ### 项目四任务二
 
-- <a href="./Qualcomm骁龙汽车处理器将Android带入汽车领域.pdf" download>Qualcomm骁龙汽车处理器将Android带入汽车领域.pdf</a>
-- <a href="./基于5G+边缘计算的高速公路机电系统通信链路稳定性优化研究_杨耀贵.pdf" download>基于5G+边缘计算的高速公路机电系统通信链路稳定性优化研究_杨耀贵.pdf</a>
-- <a href="./基于CAN_FD与模块化寻址的高效多芯片通信协议设计_曾姝琳.pdf" download>基于CAN_FD与模块化寻址的高效多芯片通信协议设计_曾姝琳.pdf</a>
-- <a href="./新能源汽车车载网络CAN_FD一致性故障测试与排除研究_孟亚婷.pdf" download>新能源汽车车载网络CAN_FD一致性故障测试与排除研究_孟亚婷.pdf</a>
-- <a href="./项目四任务二.pdf" download>项目四任务二.pdf</a>
-- <a href="./高通发布第4代骁龙汽车数字座舱平台.pdf" download>高通发布第4代骁龙汽车数字座舱平台.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/Qualcomm骁龙汽车处理器将Android带入汽车领域.pdf" download>Qualcomm骁龙汽车处理器将Android带入汽车领域.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/基于5G+边缘计算的高速公路机电系统通信链路稳定性优化研究_杨耀贵.pdf" download>基于5G+边缘计算的高速公路机电系统通信链路稳定性优化研究_杨耀贵.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/基于CAN_FD与模块化寻址的高效多芯片通信协议设计_曾姝琳.pdf" download>基于CAN_FD与模块化寻址的高效多芯片通信协议设计_曾姝琳.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/新能源汽车车载网络CAN_FD一致性故障测试与排除研究_孟亚婷.pdf" download>新能源汽车车载网络CAN_FD一致性故障测试与排除研究_孟亚婷.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/项目四任务二.pdf" download>项目四任务二.pdf</a>
+- <a href="/download/项目四车云远程数据交互系统认知/高通发布第4代骁龙汽车数字座舱平台.pdf" download>高通发布第4代骁龙汽车数字座舱平台.pdf</a>
 
 ### 项目四任务三
 

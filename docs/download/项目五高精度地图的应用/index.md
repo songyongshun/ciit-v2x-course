@@ -6,7 +6,7 @@
 
 ## 📎 课件（PPT）
 
-- <a href="./项目五任务三.pptx" download>项目五任务三.pptx</a>
+- <a href="/download/项目五高精度地图的应用/项目五任务三.pptx" download>项目五任务三.pptx</a>
 
 ---
 
@@ -14,16 +14,16 @@
 
 ### 项目五任务一
 
-- <a href="./面向车路云一体化的云控制理论与关键技术_夏元清.pdf" download>面向车路云一体化的云控制理论与关键技术_夏元清.pdf</a>
-- <a href="./高精度地图的认知.pdf" download>高精度地图的认知.pdf</a>
+- <a href="/download/项目五高精度地图的应用/面向车路云一体化的云控制理论与关键技术_夏元清.pdf" download>面向车路云一体化的云控制理论与关键技术_夏元清.pdf</a>
+- <a href="/download/项目五高精度地图的应用/高精度地图的认知.pdf" download>高精度地图的认知.pdf</a>
 
 ### 项目五任务二
 
-- <a href="./高精度地图的采集.pdf" download>高精度地图的采集.pdf</a>
+- <a href="/download/项目五高精度地图的应用/高精度地图的采集.pdf" download>高精度地图的采集.pdf</a>
 
 ### 项目五任务三
 
-- <a href="./面向汽车智能驾驶的高精度地图应用研究_谢康.pdf" download>面向汽车智能驾驶的高精度地图应用研究_谢康.pdf</a>
+- <a href="/download/项目五高精度地图的应用/面向汽车智能驾驶的高精度地图应用研究_谢康.pdf" download>面向汽车智能驾驶的高精度地图应用研究_谢康.pdf</a>
 
 ---
 
