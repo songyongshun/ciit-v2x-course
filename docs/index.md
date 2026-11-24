@@ -12,7 +12,7 @@ hero:
       link: /book/项目一 V2X技术认知
     - theme: alt
       text: 参考教材
-      link: /chapters/ch01
+      link: /book/ch01
 
 features:
   - title: 项目一 V2X 技术认知
