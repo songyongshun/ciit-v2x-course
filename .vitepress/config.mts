@@ -40,7 +40,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'V2X 课程', link: '/chapters/项目一 V2X技术认知', activeMatch: '/chapters/' },
-      { text: '参考教材', link: '/book/ch01', activeMatch: '/book/' },
+      { text: '参考教材', link: '/book/', activeMatch: '/book/' },
       {
         text: '讲义下载',
         link: '/download/',
